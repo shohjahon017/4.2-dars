@@ -81,4 +81,46 @@
 // let i =yuzlik + "" +birlik   + "" + onlik;
 
 // 8-masala
-let num = +prompt("To`rt xonali son kiriting");
+// let num = +prompt("To`rt xonali son kiriting");
+// let b = Math.trunc(num % 100) / 10;
+// console.log(b);
+
+// 9-masala
+// let num = +prompt("To`rt xonali son kiriting");
+// let b = Math.trunc((num % 10000) / 1000);
+// console.log(b);
+
+//10-masala
+// let N = +prompt("n ni kiriting");
+// let i = N / 60;
+// console.log(i);
+
+// 11-masala
+// let N = +prompt("n ni kiriting");
+// let i = N / 3600;
+// console.log(i);
+
+// 12-masala
+// let N = +prompt("N ni kiriting");
+// let s = N / 1;
+// let m = N / 60;
+// console.log(m, s);
+
+// 13-masala
+// let N = +prompt("N ni kiriting");
+// let i = N / 60;
+// let s = N / 1;
+// console.log(i, s);
+
+// 14-masala
+// let N = +prompt("N ni kiriting");
+// let soat = N / 3600;
+// let s = N / 1;
+// console.log(soat, s);
+
+// 15-masala
+// let N = +prompt("N ni kiriting");
+// let soat = N / 3600;
+// let s = N / 1;
+// let m = N / 60;
+// console.log(soat, s, m);
